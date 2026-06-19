@@ -2,4 +2,4 @@ def add(num1, num2):
     return num1 + num2
 
 
-X: int = "broken for test"
+X: int = 5
